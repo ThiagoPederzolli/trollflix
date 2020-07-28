@@ -1,0 +1,190 @@
+{
+  "categorias": [
+    {
+      "titulo": "Séries",
+      "link": "",
+      "cor": "#161C57",
+      "link_extra": {
+        "text": "Séries que ganharam meu coração",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Olá! Essa é a TrollFlix!",
+          "url": "https://youtu.be/xdQA5R1GQ04"
+        },
+        {
+          "titulo": "Sons Of Anarchy",
+          "url": "https://www.youtube.com/watch?v=_03DBXL3Srw"
+        },
+        {
+          "titulo": "Vikings",
+          "url": "https://www.youtube.com/watch?v=f5av6OqFwz0"
+        },
+        {
+          "titulo": "SWAT",
+          "url": "https://www.youtube.com/watch?v=3xD8nf1EhtA"
+        },
+        {
+          "titulo": "The Last Kingdom",
+          "url": "https://www.youtube.com/watch?v=WxPApTGWwas"
+        },
+        {
+          "titulo": "Bordertown",
+          "url": "https://www.youtube.com/watch?v=DjOFzeVynVY"
+        },
+        {
+          "titulo": "Person Of Interest",
+          "url": "https://www.youtube.com/watch?v=WYDWSNMTauQ"
+        },
+        {
+          "titulo": "Criminal Minds",
+          "url": "https://www.youtube.com/watch?v=XJAjw42JjZs"
+        }        
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#2B3C40",
+      "link_extra": {
+        "text": "Banda que mais dei o play na vida",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Blind Guardian",
+          "url": "https://www.youtube.com/watch?v=n63UbX5kzAc"
+        },
+        {
+          "titulo": "Metallica",
+          "url": "https://www.youtube.com/watch?v=WM8bTdBs-cw"
+        },
+        {
+          "titulo": "Amon Amarth",
+          "url": "https://www.youtube.com/watch?v=55OJ17cHeJA"
+        },
+        {
+          "titulo": "Arch Enemy",
+          "url": "https://www.youtube.com/watch?v=n9AcG0glVu4"
+        }, 
+        {
+          "titulo": "Iron Maiden",
+          "url": "https://www.youtube.com/watch?v=Ij99dud8-0A"
+        }
+      ]
+    },
+    {
+      "titulo": "Canais de Programação",
+      "cor": "#00738E",
+      "link_extra": {
+        "text": "Galera que tenho como referência para ser um excelente Dev",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "CollabCode",
+          "url": "https://www.youtube.com/watch?v=ESMLqFWIEDQ"
+        },
+        {
+          "titulo": "DevSoutinho",
+          "url": "https://www.youtube.com/watch?v=-nYNd6EuZHU"
+        },
+        {
+          "titulo": "Alura",
+          "url": "https://www.youtube.com/watch?v=Dcn-tVmSxyU&t=7s"
+        },
+        {
+          "titulo": "Rocketseat",
+          "url": "https://www.youtube.com/watch?v=6-VDE3H9-WU"
+        },
+        {
+          "titulo": "Trybe",
+          "url": "https://www.youtube.com/watch?v=j0Dp2EtUKes"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#098CAB",
+      "link_extra": {
+        "text": "Jogos que mais joguei na vida!",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Ultima Online",
+          "url": "https://www.youtube.com/watch?v=MoSzvqIEptQ"
+         
+        },
+        {
+          "titulo": "Brutal Legend",
+          "url": "https://www.youtube.com/watch?v=0ISlVt5nF2c"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
